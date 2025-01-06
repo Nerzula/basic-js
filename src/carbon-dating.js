@@ -32,8 +32,6 @@ function dateSample(sampleActivity) {
 
   return Math.ceil(age); 
 }
-
-console.log(dateSample('3.142'));
 module.exports = {
   dateSample
 };
